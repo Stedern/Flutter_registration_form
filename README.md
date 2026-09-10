@@ -1,4 +1,4 @@
-# IT 126 Registration Form
+# Registration Form
 
 A Flutter registration form for the IT 126 Mobile Development practical activity.
 
